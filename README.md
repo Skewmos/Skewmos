@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+## ✨ I am a software engineer ✨
+I am crazy about tech and computer sciences. 
+I am travel lover and amateur photographer.
+I have many skills, hard  and my favorite are:
 
-<!--
-**Skewmos/Skewmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- php (Symfony, laravel) 🐘
+- javascript (react, vuejs) 📜
+- ruby 💎
+- python 🐍
+- c
+- docker 🐳
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [My personal website](https://www.legrandjeremie.fr/)
