@@ -1,4 +1,4 @@
-<h1 align="center">✨ Legrand Jérémiee {SKEWMOS} ✨</h1>
+<h1 align="center">✨ Legrand Jérémiee {Skewmos} ✨</h1>
 <p>
 Software engineer working mainly on backend technologies with an apetence for the front and the devops.Travel lover and passionate about photography.Always ready to learn new things, listening to new technology. I really like technology, programming and cybersecurity.
 
